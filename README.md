@@ -7,7 +7,7 @@ This project is UI-only (frontend prototype). No backend/payment integration is 
 
 ## Features
 
-Photo Categories:
+# Photo Categories:
 
 Wildlife
 
@@ -26,7 +26,7 @@ Landscape
 - Category Filtering to easily browse by photo type.
 
 - Responsive UI optimized for desktop and mobile.
-- 
+  
 
 ## Tech Stack
 
