@@ -7,7 +7,7 @@ This project is UI-only (frontend prototype). No backend/payment integration is 
 
 ## Features
 
-# Photo Categories:
+### Photo Categories:
 
 Wildlife
 
