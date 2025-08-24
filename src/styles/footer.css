@@ -1,0 +1,45 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #101b27;
+  padding: 0.75rem 1rem;
+  text-align: center;
+  color: #ebf0f5;
+}
+
+.footer-links {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.footer-links h3 {
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+.footer-links h3:hover {
+  color: #0c6dcf;
+  cursor: pointer;
+}
+
+.social-icons {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+  transition: transform 0.3s ease;
+}
+
+.social-icons:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
+
+.copyright {
+  margin: 0;
+  font-size: 0.875rem;
+}
